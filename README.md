@@ -14,4 +14,6 @@
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail&logoColor=E7B400)
 
 ## Соцсети
-[Резюме](https://drive.google.com/your-resume-link)
+<a href="https://t.me/ваш_никнейм" target="_blank">
+    <img src="images/telegram-logo.png" alt="Telegram" width="50" height="50"/>
+</a>
