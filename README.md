@@ -14,6 +14,4 @@
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail&logoColor=E7B400)
 
 ## Соцсети
-<a href="https://t.me/ваш_никнейм" target="_blank">
-    <img src=![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=FFFFFF) alt="Telegram" width="50" height="50"/>
-</a>
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+79059813723)
