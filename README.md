@@ -1,7 +1,7 @@
 Буду рад предложениям о трудоустройсте
 
 ## Резюме
-[Резюме]([https://drive.google.com/your-resume-link](https://drive.google.com/file/d/10Bfgynx9CpBxIRGo6mwuvSUdU-untpCg/view?usp=sharing))
+[Резюме](https://drive.google.com/file/d/10Bfgynx9CpBxIRGo6mwuvSUdU-untpCg/view?usp=sharing)
 
 ## Текстовая документация
 [Резюме](https://drive.google.com/your-resume-link)
