@@ -3,7 +3,7 @@
 <h3><strong>Данное портфолио создано с целью поиска работы. Портфолио находится в процессе заполнения и совершенствования</strong></h3>
 
 ## Резюме
-[Резюме](https://drive.google.com/file/d/10Bfgynx9CpBxIRGo6mwuvSUdU-untpCg/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/19iiUAbRAV6oKqOVOBiQrA3rf1jSl1mZQ/view?usp=sharing)
 
 ## Текстовая документация
 [Тест-кейсы по API](https://docs.google.com/spreadsheets/d/1bvbh97i3XHyfhB9O0HYcAWRfGisXpwyy-GRBG0-Adog/edit?usp=sharing)
