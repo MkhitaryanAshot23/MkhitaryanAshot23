@@ -6,7 +6,7 @@
 [Резюме](https://drive.google.com/file/d/10Bfgynx9CpBxIRGo6mwuvSUdU-untpCg/view?usp=sharing)
 
 ## Текстовая документация
-[Резюме](https://drive.google.com/your-resume-link)
+[Тест-кейсы по API](https://docs.google.com/spreadsheets/d/1bvbh97i3XHyfhB9O0HYcAWRfGisXpwyy-GRBG0-Adog/edit?usp=sharing)
 
 ## Инструменты
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
