@@ -1,4 +1,4 @@
-Буду рад предложениям о трудоустройсте
+<h2><strong>Буду рад предложениям о трудоустройсте</strong></h2>
 
 ## Резюме
 [Резюме](https://drive.google.com/file/d/10Bfgynx9CpBxIRGo6mwuvSUdU-untpCg/view?usp=sharing)
