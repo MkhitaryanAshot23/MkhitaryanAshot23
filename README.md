@@ -6,6 +6,7 @@
 [Резюме](https://drive.google.com/file/d/14wCe6oiOITKBOhfuG1pVMpfR9NJHyMM2/view?usp=sharing)
 
 ## Текстовая документация
+[Задачи по Selenium](https://github.com/MkhitaryanAshot23/test_repository)
 [Тест-кейсы по API](https://docs.google.com/spreadsheets/d/1bvbh97i3XHyfhB9O0HYcAWRfGisXpwyy-GRBG0-Adog/edit?usp=sharing)
 
 ## Инструменты
