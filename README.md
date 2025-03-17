@@ -3,7 +3,7 @@
 <h3><strong>Данное портфолио создано с целью поиска работы. Портфолио находится в процессе заполнения и совершенствования</strong></h3>
 
 ## Резюме
-[Резюме](https://drive.google.com/file/d/14wCe6oiOITKBOhfuG1pVMpfR9NJHyMM2/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/1RXz0K80b_vc0esu8pt4qSyIwgiwmcYei/view?usp=sharing)
 
 ## Текстовая документация
 [Работа с Selenium](https://github.com/MkhitaryanAshot23/test_repository) <br> 
