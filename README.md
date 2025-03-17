@@ -19,7 +19,7 @@
 
 <div style="background-color: #090909; padding: 10px 20px; border-radius: 5px; display: inline-flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_Yandex_Tracker_2021.svg/1200px-Logo_Yandex_Tracker_2021.svg.png" alt="Yandex Tracker Logo" style="height: 20px; margin-right: 10px;" />
-  <span style="color: #FFCE00; font-size: 14px; font-weight: bold;">YandexTracker</span>
+  <span style="color: #ffffff; font-size: 14px; font-weight: bold;">YandexTracker</span>
 </div>
 
 ## Соцсети
