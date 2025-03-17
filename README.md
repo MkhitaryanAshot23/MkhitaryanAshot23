@@ -16,7 +16,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=google-chrome&logoColor=4285F4)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail&logoColor=E7B400)
-![Yandex Tracker](https://img.shields.io/badge/-YandexTracker-090909?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_Yandex_Tracker_2021.svg/1200px-Logo_Yandex_Tracker_2021.svg.png&logoColor=FFCE00)
+
 <div style="background-color: #090909; padding: 10px 20px; border-radius: 5px; display: inline-flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_Yandex_Tracker_2021.svg/1200px-Logo_Yandex_Tracker_2021.svg.png" alt="Yandex Tracker Logo" style="height: 20px; margin-right: 10px;" />
   <span style="color: #FFCE00; font-size: 14px; font-weight: bold;">YandexTracker</span>
