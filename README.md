@@ -17,6 +17,10 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=google-chrome&logoColor=4285F4)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC) 
 ![Yandex Tracker](https://img.shields.io/badge/-YandexTracker-090909?style=for-the-badge&logo=yandex&logoColor=FFCE00)
+<div style="display: inline-block; background-color: #090909; padding: 8px 16px; border-radius: 5px; color: #FFCE00; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_Yandex_Tracker_2021.svg/1200px-Logo_Yandex_Tracker_2021.svg.png" alt="Yandex Tracker Logo" style="height: 20px; margin-right: 8px; vertical-align: middle;">
+  Yandex Tracker
+</div>
 
 ## Соцсети
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+79059813723)
