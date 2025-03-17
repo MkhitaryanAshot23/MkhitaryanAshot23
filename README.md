@@ -16,11 +16,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=google-chrome&logoColor=4285F4)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail&logoColor=E7B400)
-
-<div style="background-color: #090909; padding: 10px 20px; border-radius: 5px; display: inline-flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_Yandex_Tracker_2021.svg/1200px-Logo_Yandex_Tracker_2021.svg.png" alt="Yandex Tracker Logo" style="height: 20px; margin-right: 10px;" />
-  <span style="color: #ffffff; font-size: 14px; font-weight: bold;">YandexTracker</span>
-</div>
+![Yandex Tracker](https://img.shields.io/badge/-YandexTracker-090909?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDUwMCI+PHRpdGxlPlN2Z18yPC90aXRsZT48ZyBpZD0iQmFja2dyb3VuZCIgc3Ryb2tlPSJub25lIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0wLDBoMTIwMHY1MDBIMHoiLz48L2c+PGcgaWQ9Il8yIiBkYXRhLW5hbWU9IjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgLTIyOCkiPjxwYXRoIGlkPSJfMSIgZGF0YS1uYW1lPSIxIiBkPSJNODg0LjUsMzE4LjVjLTEwLjUtMTcuNS0yNy41LTE3LjUtNDUuNSwwTDcyNCwzNjJsLTExOS01MWMtMTgtMTcuNS0zNi0xNy41LTU0LDBsLTEyMS41LDUxLjUtNTguNS0yNS41Yy0xMC41LTE3LjUtMjcuNS0xNy41LTQ1LjUsMGwtNTguNSwyNS41Yy0xOCwxNy41LTE4LDM1LDAsNTJMNjEsNDc0LjVsMTE5LDUxYzEwLjUsMTcuNSwyNy41LDE3LjUsNDUuNSwwTDg4NCw0MjNsMTE5LTUxYzE4LTE3LjUsMTgtMzUsMC01Mkw5NTIsMzE4LjVjLTEwLjUtMTcuNS0yNy41LTE3LjUtNDUuNSwwTDg4NC41LDMyMXoiIGZpbGw9IiNGRkNFMDAiLz48L2c+PC9zdmc+&logoColor=FFCE00)
 
 ## Соцсети
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+79059813723)
