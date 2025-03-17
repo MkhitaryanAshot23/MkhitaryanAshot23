@@ -16,7 +16,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=google-chrome&logoColor=4285F4)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail&logoColor=E7B400)
-![Yandex Tracker](https://img.shields.io/badge/-YandexTracker-090909?style=for-the-badge&logo=trackeryandex&logoColor=FFCE00)
+![Yandex Tracker](https://img.shields.io/badge/-YandexTracker-090909?style=for-the-badge&logo=tracker-yandex&logoColor=FFCE00)
 
 ## Соцсети
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+79059813723)
