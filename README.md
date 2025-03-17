@@ -16,10 +16,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=google-chrome&logoColor=4285F4)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail&logoColor=E7B400)
-<div style="display: inline-block; background-color: #090909; padding: 8px 16px; border-radius: 5px; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; line-height: 20px; vertical-align: middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_Yandex_Tracker_2021.svg/1200px-Logo_Yandex_Tracker_2021.svg.png" alt="Yandex Tracker Logo" style="height: 20px; margin-right: 8px; vertical-align: middle;">
-  YANDEX TRACKER
-</div>
+![Yandex Tracker](https://img.shields.io/badge/-YandexTracker-090909?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_Yandex_Tracker_2021.svg/1200px-Logo_Yandex_Tracker_2021.svg.png&logoColor=FFCE00)
 
 ## Соцсети
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+79059813723)
