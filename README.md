@@ -5,7 +5,7 @@
 ## Резюме
 [Резюме](https://drive.google.com/file/d/1SIytm7CJdN-V8T0eTB8v5s3cToe6XTXH/view?usp=sharing)
 
-## Текстовая документация
+## Тестовая документация
 [Работа с Selenium](https://github.com/MkhitaryanAshot23/test_repository) <br> 
 [Тест-кейсы по API](https://docs.google.com/spreadsheets/d/1bvbh97i3XHyfhB9O0HYcAWRfGisXpwyy-GRBG0-Adog/edit?usp=sharing)
 
